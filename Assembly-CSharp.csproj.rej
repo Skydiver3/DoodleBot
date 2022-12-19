@@ -1,0 +1,9 @@
+diff a/DoodleBot_UnityProject/Assembly-CSharp.csproj b/DoodleBot_UnityProject/Assembly-CSharp.csproj	(rejected hunks)
+@@ -69,7 +69,6 @@
+     <Compile Include="Assets\0_Scripts\Entities\BigBot.cs" />
+     <Compile Include="Assets\0_Scripts\Entities\Enemy.cs" />
+     <Compile Include="Assets\0_Scripts\Entities\Entity.cs" />
+-    <Compile Include="Assets\0_Scripts\Entities\Missile.cs" />
+     <Compile Include="Assets\0_Scripts\Entities\SmallBot.cs" />
+     <Compile Include="Assets\0_Scripts\InputManager.cs" />
+     <Compile Include="Assets\0_Scripts\World.cs" />
