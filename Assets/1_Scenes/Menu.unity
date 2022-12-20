@@ -211,7 +211,7 @@ AudioListener:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 260787285}
-  m_Enabled: 1
+  m_Enabled: 0
 --- !u!20 &260787287
 Camera:
   m_ObjectHideFlags: 0
@@ -566,6 +566,46 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Pivot.y
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8723327902401636274, guid: ee7ee5eea4f4ddd4cbbd5cf95521a40e,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.434702
+      objectReference: {fileID: 0}
+    - target: {fileID: 8723327902401636274, guid: ee7ee5eea4f4ddd4cbbd5cf95521a40e,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2.3356972
+      objectReference: {fileID: 0}
+    - target: {fileID: 8723327902401636274, guid: ee7ee5eea4f4ddd4cbbd5cf95521a40e,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 2.3356972
+      objectReference: {fileID: 0}
+    - target: {fileID: 8723327902401636274, guid: ee7ee5eea4f4ddd4cbbd5cf95521a40e,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -85
+      objectReference: {fileID: 0}
+    - target: {fileID: 2413822781110392518, guid: ee7ee5eea4f4ddd4cbbd5cf95521a40e,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.456118
+      objectReference: {fileID: 0}
+    - target: {fileID: 2413822781110392518, guid: ee7ee5eea4f4ddd4cbbd5cf95521a40e,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2.3705626
+      objectReference: {fileID: 0}
+    - target: {fileID: 2413822781110392518, guid: ee7ee5eea4f4ddd4cbbd5cf95521a40e,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 2.3705626
+      objectReference: {fileID: 0}
+    - target: {fileID: 2413822781110392518, guid: ee7ee5eea4f4ddd4cbbd5cf95521a40e,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -157.337
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ee7ee5eea4f4ddd4cbbd5cf95521a40e, type: 3}
