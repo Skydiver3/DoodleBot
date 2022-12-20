@@ -5,7 +5,7 @@ Will their friendship be enough to fuel the eternal fight for survival in the co
 You decide their fate in this adorable asymmetrical co-op take on Asteroids.
 
 
-Contributions:
+**Contributions:
 
 Celine Bergmann: Art & Animation
 Vlad Draghici: Art & Animation
@@ -16,6 +16,6 @@ Martin Volz: Programming
 -sounds from freesound.org-
 -background music: Intro by Carlos Carty on freesound.org-
 
-See also:
+**See also:
 
 https://globalgamejam.org/2020/games/doodlebot-5
